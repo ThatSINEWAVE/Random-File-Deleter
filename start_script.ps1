@@ -1,0 +1,1 @@
+Start-Process -FilePath "cmd.exe" -ArgumentList "/c .\script.bat" -WindowStyle Hidden
