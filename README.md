@@ -12,6 +12,8 @@ This script is for educational purposes only. It is designed to demonstrate the 
 - **Customizable File Targeting**: Users can specify the file extension of the files to be targeted for deletion.
 - **Startup Execution**: Includes a method to run the script at system startup, ensuring the random deletion process begins automatically.
 
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 ## Setup
 
 1. **Modify File Extension**: Open `script.bat` and change the `file_extension` variable to target the desired file type. The default is set to `.prproj`.
