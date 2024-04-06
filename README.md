@@ -1,6 +1,10 @@
+<div align="center">
+
 # Random File Deleter
 
 This repository contains a small script (`script.bat`) intended to run at startup and delete a randomly chosen file at intervals ranging from 1 to 10 minutes. The script targets files with a specific extension, which can be modified by the user. A PowerShell script (`start_script.ps1`) is included to facilitate running the batch script in the background at startup.
+
+</div>
 
 ## Warning
 
@@ -12,7 +16,11 @@ This script is for educational purposes only. It is designed to demonstrate the 
 - **Customizable File Targeting**: Users can specify the file extension of the files to be targeted for deletion.
 - **Startup Execution**: Includes a method to run the script at system startup, ensuring the random deletion process begins automatically.
 
+<div align="center">
+
 ## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
+</div>
 
 ## Setup
 
