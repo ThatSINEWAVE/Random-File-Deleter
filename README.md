@@ -30,6 +30,12 @@ This script is for educational purposes only. It is designed to demonstrate the 
     ```
 2. **Configure Startup Task**: Use `start_script.ps1` to run `script.bat` at system startup. This can be done by scheduling a task in the Task Scheduler to run `start_script.ps1`.
 
+<div align="center">
+
+# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+
+</div>
+
 ## Usage
 
 After setting up the script and configuring the targeted file extension, the script will automatically run at the specified intervals, deleting a randomly selected file with the specified extension in the script's directory.
