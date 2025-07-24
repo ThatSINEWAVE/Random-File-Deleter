@@ -32,7 +32,7 @@ This script is for educational purposes only. It is designed to demonstrate the 
 
 <div align="center">
 
-# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+# [Join my discord server](https://github.com/ThatSINEWAVE/Discord-Redirect)
 
 </div>
 
